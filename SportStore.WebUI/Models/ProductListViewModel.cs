@@ -1,10 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using SportsStore.Domain.Abstract;
+﻿using System.Collections.Generic;
 using SportsStore.Domain.Entitites;
-using SportStore.WebUI.Models;
 
 namespace SportStore.WebUI.Models
 {
