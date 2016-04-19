@@ -1,7 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
-using System.Web;
 using System.Web.Mvc;
 using SportsStore.Domain.Abstract;
 
@@ -14,12 +12,11 @@ namespace SportStore.WebUI.Controllers
         {
             repository = repo;
         }
-        public PartialViewResult Menu()
+        public PartialViewResult Menu(string category = null)
         {
-            IEnumerable<string> categories = repository.Products
-                .Select(x => x.Category)
-                .Distinct()
-                .OrderBy(x => x);
+            ViewBag.SelectedCategory = category;
+
+            IEnumerable<string> categories = repository.Products.Select(x => x.Category).Distinct().OrderBy(x => x);
             return PartialView(categories);
         }
     }
