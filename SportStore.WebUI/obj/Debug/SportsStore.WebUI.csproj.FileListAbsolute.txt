@@ -100,5 +100,3 @@ C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportStore.W
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportStore.WebUI\obj\Debug\SportStore.WebUI.dll
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportStore.WebUI\obj\Debug\SportStore.WebUI.pdb
-C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportStore.WebUI\bin\SportStore.WebUI.dll.CodeAnalysisLog.xml
-C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportStore.WebUI\bin\SportStore.WebUI.dll.lastcodeanalysissucceeded

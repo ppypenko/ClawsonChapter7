@@ -12,19 +12,19 @@ namespace SportStore.WebUI.Controllers
 {
     public class ProductController : Controller
     {
-        private IProductRepository repsitory;
+        private IProductRepository repository;
         public int PageSize = 4;
         // GET: Product
         public ProductController(IProductRepository productRepository) 
         {
-            this.repsitory = productRepository;
+            this.repository = productRepository;
         }
 
         public ViewResult List(string category, int page = 1)
         {
             ProductListViewModel model = new ProductListViewModel
             {
-                Products = repsitory.Products
+                Products = repository.Products
                     .Where(p => category == null || p.Category == category)
                     .OrderBy(p => p.ProductID)
                     .Skip((page - 1) * PageSize)
@@ -33,7 +33,7 @@ namespace SportStore.WebUI.Controllers
                 {
                     CurrentPage = page,
                     ItemsPerPage = PageSize,
-                    TotalItems = repsitory.Products.Count()
+                    TotalItems = category == null ? repository.Products.Count() : repository.Products.Where(e => e.Category == category).Count()
                 },
                 CurrentCategory = category
             };
