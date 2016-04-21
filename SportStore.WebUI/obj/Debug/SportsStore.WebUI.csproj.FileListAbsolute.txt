@@ -61,9 +61,6 @@ C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportStore.W
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportStore.WebUI\bin\roslyn\vbc.exe
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportStore.WebUI\bin\roslyn\VBCSCompiler.exe
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportStore.WebUI\bin\SportStore.WebUI.dll.config
-C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportStore.WebUI\bin\SportStore.WebUI.dll
-C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportStore.WebUI\bin\SportStore.WebUI.pdb
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportStore.WebUI\bin\EntityFramework.dll
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportStore.WebUI\bin\EntityFramework.SqlServer.dll
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
@@ -98,5 +95,10 @@ C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportStore.W
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportStore.WebUI\bin\System.Web.Helpers.xml
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportStore.WebUI\bin\System.Web.Mvc.xml
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
-C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportStore.WebUI\obj\Debug\SportStore.WebUI.dll
-C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportStore.WebUI\obj\Debug\SportStore.WebUI.pdb
+C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportStore.WebUI\bin\SportsStore.WebUI.dll.config
+C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportStore.WebUI\bin\SportsStore.WebUI.dll
+C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportStore.WebUI\bin\SportsStore.WebUI.pdb
+C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportStore.WebUI\bin\SportsStore.WebUI.dll.CodeAnalysisLog.xml
+C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportStore.WebUI\bin\SportsStore.WebUI.dll.lastcodeanalysissucceeded

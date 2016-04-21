@@ -70,7 +70,6 @@ C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.UnitTests\bin\Debug\Ninject.Web.Common.dll
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.UnitTests\bin\Debug\Ninject.Web.Mvc.dll
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.UnitTests\bin\Debug\SportsStore.Domain.dll
-C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.UnitTests\bin\Debug\SportStore.WebUI.dll
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.UnitTests\bin\Debug\System.Web.Helpers.dll
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.UnitTests\bin\Debug\System.Web.Mvc.dll
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.UnitTests\bin\Debug\System.Web.Razor.dll
@@ -80,7 +79,6 @@ C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.UnitTests\bin\Debug\WebActivator.dll
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.UnitTests\bin\Debug\EntityFramework.dll
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.UnitTests\bin\Debug\SportsStore.Domain.pdb
-C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.UnitTests\bin\Debug\SportStore.WebUI.pdb
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.UnitTests\bin\Debug\Moq.xml
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.UnitTests\bin\Debug\Ninject.pdb
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.UnitTests\bin\Debug\Ninject.xml
@@ -98,5 +96,7 @@ C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.csprojResolveAssemblyReference.cache
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.dll
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.pdb
+C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.UnitTests\bin\Debug\SportsStore.WebUI.dll
+C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.UnitTests\bin\Debug\SportsStore.WebUI.pdb
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.dll.CodeAnalysisLog.xml
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.dll.lastcodeanalysissucceeded
