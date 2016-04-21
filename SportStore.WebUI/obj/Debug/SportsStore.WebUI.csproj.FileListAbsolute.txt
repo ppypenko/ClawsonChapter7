@@ -49,7 +49,6 @@ C:\Users\Cody Clawson\Documents\Visual Studio 2015\Projects\SportsStore\SportSto
 C:\Users\Cody Clawson\Documents\Visual Studio 2015\Projects\SportsStore\SportStore.WebUI\bin\EntityFramework.SqlServer.dll
 C:\Users\Cody Clawson\Documents\Visual Studio 2015\Projects\SportsStore\SportStore.WebUI\bin\EntityFramework.xml
 C:\Users\Cody Clawson\Documents\Visual Studio 2015\Projects\SportsStore\SportStore.WebUI\bin\EntityFramework.SqlServer.xml
-C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportStore.WebUI\bin\roslyn\csc.exe
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
@@ -98,5 +97,6 @@ C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportStore.W
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportStore.WebUI\bin\System.Web.Webpages.Razor.xml
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportStore.WebUI\bin\System.Web.Helpers.xml
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportStore.WebUI\obj\Debug\SportStore.WebUI.dll
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportStore.WebUI\obj\Debug\SportStore.WebUI.pdb
