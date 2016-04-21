@@ -2,10 +2,10 @@
 using Moq;
 using SportsStore.Domain.Abstract;
 using SportsStore.Domain.Entities;
-using SportStore.WebUI.Controllers;
+using SportsStore.WebUI.Controllers;
 using System.Collections.Generic;
 using System.Linq;
-using SportStore.WebUI.Models;
+using SportsStore.WebUI.Models;
 
 namespace SportsStore.UnitTests
 {

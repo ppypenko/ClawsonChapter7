@@ -4,9 +4,9 @@ using System.Linq;
 using System.Web;
 using System.Text;
 using System.Web.Mvc;
-using SportStore.WebUI.Models;
+using SportsStore.WebUI.Models;
 
-namespace SportStore.WebUI.HtmlHelpers
+namespace SportsStore.WebUI.HtmlHelpers
 {
     public static class PagingHelpers
     {

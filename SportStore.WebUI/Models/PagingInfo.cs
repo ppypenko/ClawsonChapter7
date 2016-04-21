@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
-using SportStore.WebUI.Models;
+using SportsStore.WebUI.Models;
 
-namespace SportStore.WebUI.Models
+namespace SportsStore.WebUI.Models
 {
     public class PagingInfo
     {

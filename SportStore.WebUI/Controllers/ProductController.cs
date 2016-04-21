@@ -5,10 +5,10 @@ using System.Web;
 using System.Web.Mvc;
 using SportsStore.Domain.Abstract;
 using SportsStore.Domain.Entities;
-using SportStore.WebUI.Models;
+using SportsStore.WebUI.Models;
 
 
-namespace SportStore.WebUI.Controllers
+namespace SportsStore.WebUI.Controllers
 {
     public class ProductController : Controller
     {

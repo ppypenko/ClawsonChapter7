@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using SportsStore.Domain.Entities;
 
-namespace SportStore.WebUI.Models
+namespace SportsStore.WebUI.Models
 {
     public class ProductListViewModel
     {

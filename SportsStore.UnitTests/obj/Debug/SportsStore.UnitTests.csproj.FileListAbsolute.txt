@@ -49,6 +49,7 @@ c:\users\cody clawson\documents\visual studio 2015\Projects\SportsStore\SportsSt
 c:\users\cody clawson\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.pdb
 C:\Users\Cody Clawson\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\EntityFramework.dll
 C:\Users\Cody Clawson\documents\visual studio 2015\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\EntityFramework.xml
+C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.csprojResolveAssemblyReference.cache
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.UnitTests\bin\Debug\roslyn\csc.exe
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.UnitTests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
@@ -97,8 +98,5 @@ C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.UnitTests\bin\Debug\EntityFramework.xml
-C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.csprojResolveAssemblyReference.cache
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.dll
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.pdb
-C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.dll.CodeAnalysisLog.xml
-C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.dll.lastcodeanalysissucceeded

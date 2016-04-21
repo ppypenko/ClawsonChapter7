@@ -11,7 +11,7 @@ using Moq;
 
 
 
-namespace SportStore.WebUI.Infrastructure
+namespace SportsStore.WebUI.Infrastructure
 {
     public class NinjectDependencyResolver : IDependencyResolver
     {

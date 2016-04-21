@@ -3,7 +3,7 @@ using System.Linq;
 using System.Web.Mvc;
 using SportsStore.Domain.Abstract;
 
-namespace SportStore.WebUI.Controllers
+namespace SportsStore.WebUI.Controllers
 {
     public class NavController : Controller  
     {
