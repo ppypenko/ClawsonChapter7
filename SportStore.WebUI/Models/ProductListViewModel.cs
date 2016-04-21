@@ -1,5 +1,5 @@
 ﻿using System.Collections.Generic;
-using SportsStore.Domain.Entitites;
+using SportsStore.Domain.Entities;
 
 namespace SportStore.WebUI.Models
 {

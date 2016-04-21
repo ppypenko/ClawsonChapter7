@@ -1,4 +1,4 @@
-﻿using SportsStore.Domain.Entitites;
+﻿using SportsStore.Domain.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;

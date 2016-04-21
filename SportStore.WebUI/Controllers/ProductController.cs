@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using SportsStore.Domain.Abstract;
-using SportsStore.Domain.Entitites;
+using SportsStore.Domain.Entities;
 using SportStore.WebUI.Models;
 
 

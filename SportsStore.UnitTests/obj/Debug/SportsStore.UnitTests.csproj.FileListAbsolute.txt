@@ -100,3 +100,5 @@ C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.csprojResolveAssemblyReference.cache
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.dll
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.pdb
+C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.dll.CodeAnalysisLog.xml
+C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.dll.lastcodeanalysissucceeded
