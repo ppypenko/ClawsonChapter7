@@ -1,4 +1,4 @@
-﻿@Model SportsStore.WebUI.Models.CartIndexViewModel
+﻿@model SportsStore.WebUI.Models.CartIndexViewModel
 
 @{ 
     ViewBag.Title = "Sports Store: Your Cart";
@@ -27,7 +27,7 @@
                 <td>
                     @using (Html.BeginForm("RemoveFromCart", "Cart"))
                     {
-                        @Html.Hidden("ProductId", line.Product.ProductID)
+                        @Html.Hidden("ProductId", (int)line.Product.ProductID)
                         @Html.HiddenFor(x => x.ReturnUrl)
                         <input class="btn btn-sm btn-warning" type="submit" value="Remove"/>
                     }
