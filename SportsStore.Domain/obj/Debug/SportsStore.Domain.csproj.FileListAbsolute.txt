@@ -45,4 +45,3 @@ C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.CodeAnalysisLog.xml
 C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.lastcodeanalysissucceeded
-C:\Users\Pyotr Pypenko\Desktop\CSC260\Shopping cart\ClawsonChapter7\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
