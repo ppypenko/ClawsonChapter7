@@ -1,0 +1,15 @@
+﻿@model SportsStore.Domain.Entities.User
+@{
+    ViewBag.Title = "SportStore: Sign Up";
+}
+<h1>Sign Up</h1>
+@using (Html.BeginForm())
+{
+    <label>Enter Name</label>
+    @Html.TextBoxFor(x => x.UserName, new { @class = "form-control" })
+    <label>Enter Password</label>
+    @Html.TextBoxFor(x => x.UserPassword, new { @class = "form-control" })
+    <div class="text-center">
+        <input class="btn btn-primary" type="submit" value="Sign In" />
+    </div>
+}

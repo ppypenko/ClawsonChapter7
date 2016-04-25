@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace SportsStore.Domain.Entities
 {
-    class User
+    public class User
     {
         public int UserID { get; set; }
 
