@@ -120,3 +120,5 @@ C:\Users\Pyotr Pypenko\Desktop\CSC260\authorization\ClawsonChapter7\SportsStore.
 C:\Users\Pyotr Pypenko\Desktop\CSC260\authorization\ClawsonChapter7\SportsStore.UnitTests\obj\Release\SportsStore.UnitTests.csprojResolveAssemblyReference.cache
 C:\Users\Pyotr Pypenko\Desktop\CSC260\authorization\ClawsonChapter7\SportsStore.UnitTests\obj\Release\SportsStore.UnitTests.dll
 C:\Users\Pyotr Pypenko\Desktop\CSC260\authorization\ClawsonChapter7\SportsStore.UnitTests\obj\Release\SportsStore.UnitTests.pdb
+C:\Users\Pyotr Pypenko\Desktop\CSC260\authorization\ClawsonChapter7\SportsStore.UnitTests\bin\Release\SportsStore.UnitTests.dll.CodeAnalysisLog.xml
+C:\Users\Pyotr Pypenko\Desktop\CSC260\authorization\ClawsonChapter7\SportsStore.UnitTests\bin\Release\SportsStore.UnitTests.dll.lastcodeanalysissucceeded

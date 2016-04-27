@@ -124,3 +124,5 @@ C:\Users\Pyotr Pypenko\Desktop\CSC260\authorization\ClawsonChapter7\SportsStore.
 C:\Users\Pyotr Pypenko\Desktop\CSC260\authorization\ClawsonChapter7\SportsStore.WebUI\obj\Release\SportsStore.WebUI.csprojResolveAssemblyReference.cache
 C:\Users\Pyotr Pypenko\Desktop\CSC260\authorization\ClawsonChapter7\SportsStore.WebUI\obj\Release\SportsStore.WebUI.dll
 C:\Users\Pyotr Pypenko\Desktop\CSC260\authorization\ClawsonChapter7\SportsStore.WebUI\obj\Release\SportsStore.WebUI.pdb
+C:\Users\Pyotr Pypenko\Desktop\CSC260\authorization\ClawsonChapter7\SportsStore.WebUI\bin\SportsStore.WebUI.dll.CodeAnalysisLog.xml
+C:\Users\Pyotr Pypenko\Desktop\CSC260\authorization\ClawsonChapter7\SportsStore.WebUI\bin\SportsStore.WebUI.dll.lastcodeanalysissucceeded
